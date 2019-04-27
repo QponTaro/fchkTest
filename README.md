@@ -1,1 +1,1 @@
-# fchkTest
+# fchkTest: ふれあいネット チェッカー
